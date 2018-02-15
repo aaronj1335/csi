@@ -302,7 +302,7 @@ actually need to specify this as something like:
 [microtemplates]: http://ejohn.org/blog/javascript-micro-templating/
 [npm]: http://npmjs.org/
 [qunit]: http://docs.jquery.com/QUnit
-[mocha]: http://visionmedia.github.com/mocha/
+[mocha]: http://mochajs.org/
 [amd]: https://github.com/amdjs/amdjs-api/wiki/AMD
 [requirejs_css]: https://github.com/VIISON/RequireCSS
 [example]: https://github.com/aaronj1335/bird-app-v2
